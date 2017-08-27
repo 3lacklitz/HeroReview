@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HeroReview</string>
+    <string name="usr_name">Username</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="txt_welcome">Welcome to the Review Hero App.</string>
+</resources>
